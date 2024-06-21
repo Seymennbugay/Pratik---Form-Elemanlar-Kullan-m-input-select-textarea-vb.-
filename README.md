@@ -1,2 +1,1 @@
-# Pratik---Form-Elemanlar-Kullan-m-input-select-textarea-vb.-
-Pratik - Form Elemanları Kullanımı (input, select, textarea vb.)
+Bu projede forma elementlerini düzenli olarak kullandım. Çeşitli form elementleri ile düzenli bir form oluşturdum ve açıklama satırlarıyla projemi destekledim.
